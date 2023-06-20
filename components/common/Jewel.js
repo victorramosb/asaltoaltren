@@ -9,9 +9,9 @@ export default function Jewel({ }) {
 
 const styles = StyleSheet.create({
   imageStyle: {
-    width: 60,
-    height: 60,
+    width: 40,
+    height: 40,
     borderRadius: 75,
-    backgroundColor: '#f88',
+    // backgroundColor: '#f88',
   },
 });

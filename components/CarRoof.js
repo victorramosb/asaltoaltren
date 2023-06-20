@@ -26,12 +26,11 @@ export default function CarRoof({ car }) {
 const styles = StyleSheet.create({
   carRoofStyle: {
     flex: 1,
-    height: '100%',
-    borderWidth: 10,
-    backgroundColor: '#0ff',
-    alignItems: 'center',
-    justifyContent: 'center',
-    alignSelf: 'flex-start'
+    // height: '100%',
+    // borderWidth: 2,
+    backgroundColor: '#9ef',
+    alignItems: 'flex-end',
+    justifyContent: 'space-evenly',
   },    
 });
 
